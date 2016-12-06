@@ -1,3 +1,4 @@
+//Condensed a broken RPN calculator from APEX into a single procedure.
 import java.util.Scanner;
 public class CalcStatic {
 	public static void main(String[] args){
